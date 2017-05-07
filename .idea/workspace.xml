@@ -2,22 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61228c44-2643-4d37-8eaf-f70ec24fbd74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/differentSquares.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/differentSquares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/isSubstitutionCipher.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/isSubstitutionCipher.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/stringsConstruction.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/mirror-lake/stringsConstruction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/characterParity.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/characterParity.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/newNumeralSystem.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/newNumeralSystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/reflectString.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/reflectString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/adaNumber.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/adaNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/addBorder.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/addBorder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/allLongestStrings.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/allLongestStrings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/alphabetSubsequence.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/alphabetSubsequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/areSimilar.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/areSimilar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/electionsWinners.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/electionsWinners.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseNumbersSum.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseNumbersSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseOfCats.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseOfCats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/integerToStringOfFixedWidth.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/integerToStringOfFixedWidth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/minimalNumberOfCoins.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/minimalNumberOfCoins.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/switchLights.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/switchLights.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/threeSplit.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/threeSplit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/timedReading.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/well-of-integration/timedReading.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,12 +71,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="constructSquare.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.md">
+      <file leaf-file-name="cipher26.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cipher26.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="795">
-                <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+                <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -58,78 +94,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numbersGrouping.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="53" lean-forward="false" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="differentSquares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/differentSquares.py">
+      <file leaf-file-name="stolenLunch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="differentSquares.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/differentSquares.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mostFrequentDigitSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.py">
+      <file leaf-file-name="higherVersion.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="87">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numberOfClans.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.py">
+      <file leaf-file-name="decipher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="232">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numberOfClans.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="783">
-                <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="alphanumericLess.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1044">
+              <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mostFrequentDigitSum.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.md">
+      <file leaf-file-name="alphanumericLess.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="795">
-                <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+                <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -137,12 +147,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="numbersGrouping.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.md">
+      <file leaf-file-name="decipher.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="766">
-                <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <first_editor relative-caret-position="754">
+                <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -150,12 +160,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createAnagram.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.md">
+      <file leaf-file-name="higherVersion.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="795">
-                <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+                <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stolenLunch.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="232">
+                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="21" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -186,48 +209,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arcade/the-core/list-forest-edge/replaceMiddle.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/list-forest-edge/makeArrayConsecutive2.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/list-forest-edge/makeArrayConsecutive2.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isPower.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isPower.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isSumOfConsecutive2.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isSumOfConsecutive2.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/squareDigitsSequence.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/squareDigitsSequence.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/pagesNumberingWithInk.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/pagesNumberingWithInk.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/comfortableNumbers.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/comfortableNumbers.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/weakNumbers.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/weakNumbers.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/rectangleRotation.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/rectangleRotation.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/crosswordFormation.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/crosswordFormation.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/encloseInBrackets.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/encloseInBrackets.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/properNounCorrection.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/properNounCorrection.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isTandemRepeat.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isTandemRepeat.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isCaseInsensitivePalindrome.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isCaseInsensitivePalindrome.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/findEmailDomain.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/findEmailDomain.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/htmlEndTagByStartTag.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/htmlEndTagByStartTag.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isMAC48Address.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isMAC48Address.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isUnstablePair.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/book-market/isUnstablePair.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/stringsConstruction.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/stringsConstruction.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/isSubstitutionCipher.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/isSubstitutionCipher.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.md" />
         <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.py" />
         <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.md" />
         <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.py" />
@@ -237,6 +218,48 @@
         <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.py" />
         <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.md" />
         <option value="$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseNumbersSum.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseNumbersSum.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/allLongestStrings.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/allLongestStrings.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseOfCats.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/houseOfCats.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/alphabetSubsequence.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/alphabetSubsequence.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/minimalNumberOfCoins.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/minimalNumberOfCoins.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/addBorder.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/addBorder.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/switchLights.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/switchLights.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/timedReading.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/timedReading.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/electionsWinners.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/electionsWinners.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/integerToStringOfFixedWidth.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/integerToStringOfFixedWidth.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/areSimilar.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/areSimilar.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/adaNumber.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/adaNumber.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/threeSplit.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/well-of-integration/threeSplit.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/characterParity.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/characterParity.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/reflectString.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/reflectString.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/newNumeralSystem.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/newNumeralSystem.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.py" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.md" />
+        <option value="$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.py" />
       </list>
     </option>
   </component>
@@ -270,7 +293,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,10 +322,6 @@
               <option name="myItemId" value="the-core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mirror-lake" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -320,6 +338,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="the-core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab-of-transformations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -339,6 +361,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -612,7 +635,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494111213349</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added tasks">
+      <created>1494171631838</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494171631838</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -632,13 +662,13 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -672,381 +702,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/list-forest-edge/replaceMiddle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/list-forest-edge/makeArrayConsecutive2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/list-forest-edge/makeArrayConsecutive2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isPower.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isPower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isSumOfConsecutive2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/isSumOfConsecutive2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/squareDigitsSequence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="42" column="6" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/squareDigitsSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/pagesNumberingWithInk.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="42" column="6" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/pagesNumberingWithInk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/comfortableNumbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/weakNumbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="665">
-            <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/weakNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/rectangleRotation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/rectangleRotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/comfortableNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/crosswordFormation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/labyrinth-of-nested-loops/crosswordFormation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/encloseInBrackets.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="522">
-            <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/encloseInBrackets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/properNounCorrection.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="725">
-            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/properNounCorrection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isTandemRepeat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="725">
-            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isTandemRepeat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isCaseInsensitivePalindrome.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="841">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isCaseInsensitivePalindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/findEmailDomain.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/findEmailDomain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/htmlEndTagByStartTag.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/htmlEndTagByStartTag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isMAC48Address.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="783">
-            <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isMAC48Address.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isUnstablePair.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1131">
-            <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/book-market/isUnstablePair.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/stringsConstruction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="754">
-            <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/stringsConstruction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/isSubstitutionCipher.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/isSubstitutionCipher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/createAnagram.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/constructSquare.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="812">
             <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1057,7 +716,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/numbersGrouping.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="766">
+          <first_editor relative-caret-position="1044">
             <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1084,7 +743,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/differentSquares.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="1247">
             <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1095,7 +754,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="1102">
             <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1106,7 +765,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/mostFrequentDigitSum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1125,7 +784,406 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/mirror-lake/numberOfClans.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/houseNumbersSum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="638">
+            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/houseNumbersSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/allLongestStrings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="609">
+            <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/allLongestStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/houseOfCats.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="870">
+            <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/houseOfCats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/alphabetSubsequence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="667">
+            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/alphabetSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/minimalNumberOfCoins.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/minimalNumberOfCoins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/addBorder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/addBorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/switchLights.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/switchLights.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="55" lean-forward="false" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/timedReading.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/timedReading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/electionsWinners.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/electionsWinners.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/integerToStringOfFixedWidth.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/integerToStringOfFixedWidth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/areSimilar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/areSimilar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="72" lean-forward="false" selection-start-line="12" selection-start-column="72" selection-end-line="12" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/adaNumber.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="39" column="6" lean-forward="false" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/adaNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/threeSplit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/well-of-integration/threeSplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/characterParity.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="580">
+            <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/characterParity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/reflectString.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="609">
+            <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/reflectString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/newNumeralSystem.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="667">
+            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/newNumeralSystem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/cipher26.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="232">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="21" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/stolenLunch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/higherVersion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="754">
+            <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/decipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/the-core/lab-of-transformations/alphanumericLess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
           <folding />
         </state>
       </provider>

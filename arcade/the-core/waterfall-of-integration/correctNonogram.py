@@ -1,4 +1,4 @@
-def validRow(row):
+def valid_row(row):
     size = len(row) - min((row + ['.']).index('.'), (row + ['#']).index('#'))
     runs = [int(x) for x in row[:len(row) - size] if x != '-']
     row = row[len(row) - size:]
@@ -22,8 +22,8 @@ def transpose(matrix):
     return [[matrix[i][j] for i in range(len(matrix))] for j in range(len(matrix[0]))]
 
 
-def correctNonogram(size, nonogramField):
+def correct_nonogram(size, nonogramField):
     matrix = transpose(nonogramField)
     matrix = matrix[len(matrix) - size:]
     nf = nonogramField[len(nonogramField) - size:]
-    return sum(map(validRow, matrix)) + sum(map(validRow, nf)) == 2 * size
+    return sum(map(valid_row, matrix)) + sum(map(valid_row, nf)) == 2 * size

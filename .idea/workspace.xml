@@ -2,16 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61228c44-2643-4d37-8eaf-f70ec24fbd74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/cellsJoining.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/cellsJoining.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/countElements.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/countElements.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/firstOperationCharacter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/firstOperationCharacter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/treeBottom.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/the-core/secret-archives/treeBottom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/baseConversion.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/baseConversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/countBits.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/countBits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/listBeautifier.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/listBeautifier.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/mexFunction.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/mexFunction.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/modulus.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/modulus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/simpleSort.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/meet-python/simpleSort.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/catWalk.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/catWalk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/convertTabs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/convertTabs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/feedbackReview.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/feedbackReview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/fixMessage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/fixMessage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,82 +59,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="firstOperationCharacter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/firstOperationCharacter.py">
+      <file leaf-file-name="isWordPalindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firstOperationCharacter.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/firstOperationCharacter.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cellsJoining.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/cellsJoining.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="53" column="6" lean-forward="false" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chessNotation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/chessNotation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countElements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/countElements.py">
+      <file leaf-file-name="permutationCipher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="87">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treeBottom.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/treeBottom.py">
+      <file leaf-file-name="competitiveEating.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treeBottom.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/treeBottom.md">
+      <file leaf-file-name="newStyleFormatting.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="82" lean-forward="false" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getCommit.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getCommit.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              <first_editor relative-caret-position="609">
+                <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -122,22 +122,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="befunge93.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1856">
-              <caret line="76" column="14" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="befunge93.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.md">
+      <file leaf-file-name="newStyleFormatting.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="108" column="6" lean-forward="false" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+              <first_editor relative-caret-position="725">
+                <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -145,12 +135,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="countElements.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/countElements.md">
+      <file leaf-file-name="competitiveEating.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="795">
-                <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+                <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="permutationCipher.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="795">
+                <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isWordPalindrome.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="795">
+                <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -212,36 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arcade/the-core/chess-tavern/pawnRace.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/validTime.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/validTime.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/videoPart.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/videoPart.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/dayOfWeek.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/dayOfWeek.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/curiousClock.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/curiousClock.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/newYearCelebrations.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/newYearCelebrations.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/regularMonths.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/regularMonths.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/missedClasses.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/missedClasses.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/holiday.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/time-river/holiday.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/isSentenceCorrect.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/isSentenceCorrect.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/replaceAllDigitsRegExp.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/replaceAllDigitsRegExp.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/swapAdjacentWords.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/swapAdjacentWords.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/nthNumber.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/nthNumber.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/isSubsequence.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/isSubsequence.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/eyeRhyme.md" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/eyeRhyme.py" />
-        <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/programTranslation.md" />
         <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/programTranslation.py" />
         <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/repetitionEncryption.md" />
         <option value="$PROJECT_DIR$/arcade/the-core/regular-hell/repetitionEncryption.py" />
@@ -263,6 +249,36 @@
         <option value="$PROJECT_DIR$/arcade/the-core/secret-archives/treeBottom.py" />
         <option value="$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.md" />
         <option value="$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.py" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/listBeautifier.md" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/listBeautifier.py" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/mexFunction.md" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/mexFunction.py" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/baseConversion.py" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/baseConversion.md" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/simpleSort.md" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/simpleSort.py" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/modulus.py" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/modulus.md" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/countBits.md" />
+        <option value="$PROJECT_DIR$/arcade/python/meet-python/countBits.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/fixMessage.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/fixMessage.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/catWalk.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/catWalk.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/convertTabs.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/convertTabs.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/feedbackReview.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/feedbackReview.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.py" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.md" />
+        <option value="$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.py" />
       </list>
     </option>
   </component>
@@ -296,7 +312,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -322,8 +337,26 @@
               <option name="myItemId" value="arcade" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="the-core" />
+              <option name="myItemId" value="codefights-solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codefights-solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="arcade" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slithering-in-strings" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -341,30 +374,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="the-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="secret-archives" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codefights-solutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codefights-solutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arcade" />
+              <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -687,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494344445868</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added tasks">
+      <created>1494354285518</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1494354285518</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -747,255 +770,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/validTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/videoPart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/dayOfWeek.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/curiousClock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/newYearCelebrations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/regularMonths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="82" lean-forward="false" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/curiousClock.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="928">
-            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/dayOfWeek.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="841">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/newYearCelebrations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1682">
-            <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/regularMonths.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="812">
-            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/validTime.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/videoPart.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="667">
-            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/.md" />
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/missedClasses.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1276">
-            <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/missedClasses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/holiday.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1479">
-            <caret line="51" column="6" lean-forward="false" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/time-river/holiday.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/isSentenceCorrect.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/isSentenceCorrect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/replaceAllDigitsRegExp.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="522">
-            <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/replaceAllDigitsRegExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/swapAdjacentWords.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/swapAdjacentWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/nthNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/nthNumber.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="87">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/isSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/isSubsequence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="377">
-            <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/eyeRhyme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="928">
-            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/eyeRhyme.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/programTranslation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1334">
-            <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arcade/the-core/regular-hell/programTranslation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -1008,7 +782,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="667">
             <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1018,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +799,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="986">
             <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1037,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1046,7 +816,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1856">
             <caret line="64" column="6" lean-forward="false" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1056,7 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1065,7 +833,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1827">
             <caret line="63" column="6" lean-forward="false" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1075,7 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,14 +856,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/firstOperationCharacter.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="870">
             <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1109,7 +873,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/cellsJoining.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="1537">
             <caret line="53" column="6" lean-forward="false" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1120,7 +884,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/chessNotation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="1102">
             <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1130,9 +894,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/firstOperationCharacter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="232">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1140,7 +904,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/countElements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="1044">
             <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1151,7 +915,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/countElements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1167,7 +931,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/treeBottom.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="928">
             <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1178,7 +942,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="3132">
             <caret line="108" column="6" lean-forward="false" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1188,8 +952,293 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/arcade/the-core/secret-archives/befunge93.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1856">
+        <state relative-caret-position="798">
           <caret line="76" column="14" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/listBeautifier.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/listBeautifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/mexFunction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/mexFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/baseConversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/baseConversion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/simpleSort.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="580">
+            <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/simpleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/modulus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/modulus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/countBits.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="609">
+            <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/meet-python/countBits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/fixMessage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="638">
+            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/fixMessage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/catWalk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="638">
+            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/catWalk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/convertTabs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="783">
+            <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/convertTabs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/feedbackReview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="38" column="6" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/feedbackReview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/isWordPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/permutationCipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/competitiveEating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="725">
+            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/newStyleFormatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="82" lean-forward="false" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="609">
+            <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/slithering-in-strings/getCommit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>

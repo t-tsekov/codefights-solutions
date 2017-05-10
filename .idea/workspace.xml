@@ -2,34 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61228c44-2643-4d37-8eaf-f70ec24fbd74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/correctScholarships.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/correctScholarships.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/doodledPassword.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/doodledPassword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/frequencyAnalysis.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/frequencyAnalysis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/startupName.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/startupName.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/transposeDictionary.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/transposeDictionary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/uniqueCharacters.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/uniqueCharacters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/wordsRecognition.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/caravan-of-collections/wordsRecognition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/cyclicName.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/cyclicName.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/floatRange.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/floatRange.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/kthPermutation.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/kthPermutation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/memoryPills.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/memoryPills.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/rockPaperScissors.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/itertools-kit/rockPaperScissors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/correctLineup.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/correctLineup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/fixTree.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/fixTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/groupDating.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/groupDating.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/pressureGauges.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/pressureGauges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/twinsScore.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/drilling-the-lists/twinsScore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,39 +50,29 @@
     <favorites_list name="codefights-solutions" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="floatRange.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/floatRange.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mathPractice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rockPaperScissors.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/rockPaperScissors.py">
+      <file leaf-file-name="checkParticipants.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kthPermutation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/kthPermutation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crazyball.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.py">
+      <file leaf-file-name="fibonacciList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -97,35 +81,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crackingPassword.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.py">
+      <file leaf-file-name="primesSum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crackingPassword.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="665">
-                <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="calcBonuses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crazyball.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.md">
+      <file leaf-file-name="calcBonuses.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="795">
-                <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+                <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -133,12 +114,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kthPermutation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/kthPermutation.md">
+      <file leaf-file-name="primesSum.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="795">
-                <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+                <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -146,12 +127,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rockPaperScissors.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/rockPaperScissors.md">
+      <file leaf-file-name="fibonacciList.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="754">
-                <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <first_editor relative-caret-position="783">
+                <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -159,12 +140,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="floatRange.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/floatRange.md">
+      <file leaf-file-name="checkParticipants.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+              <first_editor relative-caret-position="667">
+                <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mathPractice.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="725">
+                <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -226,28 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arcade/python/lambda-illusions/sortStudents.py" />
-        <option value="$PROJECT_DIR$/arcade/python/lambda-illusions/isTestSolvable.md" />
-        <option value="$PROJECT_DIR$/arcade/python/lambda-illusions/isTestSolvable.py" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/createSpiralMatrix.md" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/createSpiralMatrix.py" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/constructShell.md" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/constructShell.py" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/wordPower.md" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/wordPower.py" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/coolPairs.md" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/coolPairs.py" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/multiplicationTable.py" />
-        <option value="$PROJECT_DIR$/arcade/python/complexity-of-comprehension/multiplicationTable.md" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/chessTeams.md" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/chessTeams.py" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/fixResult.md" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/fixResult.py" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/collegeCourses.md" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/collegeCourses.py" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/createHistogram.py" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/createHistogram.md" />
-        <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/leastCommonDenominator.md" />
         <option value="$PROJECT_DIR$/arcade/python/fumbling-in-functional/leastCommonDenominator.py" />
         <option value="$PROJECT_DIR$/arcade/python/caravan-of-collections/uniqueCharacters.md" />
         <option value="$PROJECT_DIR$/arcade/python/caravan-of-collections/uniqueCharacters.py" />
@@ -277,6 +249,28 @@
         <option value="$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.py" />
         <option value="$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.py" />
         <option value="$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/twinsScore.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/twinsScore.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/pressureGauges.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/pressureGauges.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/correctLineup.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/correctLineup.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/groupDating.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/groupDating.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/fixTree.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/fixTree.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.py" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.md" />
+        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.py" />
+        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.md" />
+        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.py" />
       </list>
     </option>
   </component>
@@ -353,6 +347,10 @@
               <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yin-and-yang-of-yields" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -369,10 +367,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itertools-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -722,7 +716,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494433799017</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added tasks">
+      <created>1494446305417</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1494446305417</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -782,193 +783,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arcade/python/lambda-illusions/sortStudents.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/lambda-illusions/isTestSolvable.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/lambda-illusions/isTestSolvable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/createSpiralMatrix.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="696">
-            <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/createSpiralMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/constructShell.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/constructShell.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/wordPower.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/wordPower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/coolPairs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/coolPairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/multiplicationTable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/complexity-of-comprehension/multiplicationTable.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="754">
-            <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/chessTeams.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/chessTeams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/fixResult.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/fixResult.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/collegeCourses.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/collegeCourses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/createHistogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/createHistogram.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/leastCommonDenominator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arcade/python/fumbling-in-functional/leastCommonDenominator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -981,7 +795,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="232">
             <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -991,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,7 +812,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="795">
             <caret line="53" column="6" lean-forward="false" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1010,7 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,7 +829,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="795">
             <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1029,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1038,7 +846,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="795">
             <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1048,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1057,7 +863,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="795">
             <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1067,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,7 +887,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="665">
             <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1095,7 +897,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="667">
             <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1105,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1114,7 +914,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="783">
             <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1124,7 +923,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,7 +931,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="725">
             <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1143,14 +940,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/floatRange.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="928">
             <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1161,7 +957,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/floatRange.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1180,7 +976,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/rockPaperScissors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1188,7 +984,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/kthPermutation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="1073">
             <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1199,7 +995,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/kthPermutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1207,7 +1003,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
+          <first_editor relative-caret-position="957">
             <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
             <folding />
           </first_editor>
@@ -1218,7 +1014,7 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crazyball.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1234,11 +1030,220 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/itertools-kit/crackingPassword.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="665">
+          <first_editor relative-caret-position="669">
             <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/twinsScore.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/twinsScore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/pressureGauges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/pressureGauges.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/correctLineup.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="638">
+            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/correctLineup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/groupDating.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/groupDating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fixTree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fixTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="580">
+            <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="725">
+            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="667">
+            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="783">
+            <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

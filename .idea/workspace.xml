@@ -2,32 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61228c44-2643-4d37-8eaf-f70ec24fbd74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/functionsComposition.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/functionsComposition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/mergingVines.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/mergingVines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/simpleComposition.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/simpleComposition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/tryFunctions.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/tryFunctions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/twoLines.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/higher-order-thinking/twoLines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/countVisitors.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/countVisitors.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/createDie.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/createDie.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/primarySchool.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/primarySchool.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/sign.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/sign.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/integerValueOfRomanNumeral.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/integerValueOfRomanNumeral.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/matrixElementsInSpiralOrder.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/matrixElementsInSpiralOrder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/pressingButtons.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/pressingButtons.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/productExceptSelf.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/productExceptSelf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/repeatedDNASequences.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/repeatedDNASequences.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/reverseInteger.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/reverseInteger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/reverseSentence.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/reverseSentence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/reverseVowelsOfString.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/reverseVowelsOfString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/rotateImage.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/rotateImage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/simplifyPath.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/simplifyPath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/singleNumber.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/singleNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sortByString.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sortByString.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sortedSquaredArray.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sortedSquaredArray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/squaresUnderQueenAttack.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/squaresUnderQueenAttack.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/streamValidation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/streamValidation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/stringPermutations.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/stringPermutations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/stringReformatting.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/stringReformatting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/strstr.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/strstr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sudoku2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sudoku2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sumOfTwo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/sumOfTwo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/textJustification.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/textJustification.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/tripletSum.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview/tripletSum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,62 +73,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="codefighterAttribute.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.py">
+      <file leaf-file-name="reverseSentence.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/reverseSentence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="58">
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sortCodefighters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.py">
+      <file leaf-file-name="reverseInteger.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/reverseInteger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="435">
+              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isCoolTeam.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.py">
+      <file leaf-file-name="repeatedDNASequences.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/repeatedDNASequences.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="261">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createDie.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/createDie.py">
+      <file leaf-file-name="productExceptSelf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/productExceptSelf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="319">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toHumanAge.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.py">
+      <file leaf-file-name="pressingButtons.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interview/pressingButtons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1363">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="580">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="toHumanAge.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.md">
+      <file leaf-file-name="pressingButtons.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/pressingButtons.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+              <first_editor relative-caret-position="609">
+                <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -118,12 +136,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createDie.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/createDie.md">
+      <file leaf-file-name="productExceptSelf.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/productExceptSelf.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="783">
-                <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <first_editor relative-caret-position="116">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="52" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -131,12 +149,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="isCoolTeam.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.md">
+      <file leaf-file-name="repeatedDNASequences.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/repeatedDNASequences.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="667">
-                <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <first_editor relative-caret-position="580">
+                <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -144,12 +162,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sortCodefighters.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.md">
+      <file leaf-file-name="reverseInteger.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/reverseInteger.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+              <first_editor relative-caret-position="638">
+                <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -157,12 +175,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="codefighterAttribute.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.md">
+      <file leaf-file-name="reverseSentence.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interview/reverseSentence.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="795">
-                <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+              <first_editor relative-caret-position="551">
+                <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -226,57 +244,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/prefSum.md" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.md" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.py" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.md" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.py" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.md" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.py" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.md" />
-        <option value="$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcFinalScore.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcFinalScore.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/fibonacciGenerator.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/fibonacciGenerator.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calkinWilfSequence.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calkinWilfSequence.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/checkPassword.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/checkPassword.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/greetingsGenerator.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/greetingsGenerator.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/rangeFloat.py" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/rangeFloat.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/superPrize.md" />
-        <option value="$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/superPrize.py" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/tryFunctions.md" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/tryFunctions.py" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/twoLines.md" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/twoLines.py" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/simpleComposition.md" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/simpleComposition.py" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/functionsComposition.md" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/functionsComposition.py" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/mergingVines.md" />
-        <option value="$PROJECT_DIR$/arcade/python/higher-order-thinking/mergingVines.py" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/countVisitors.md" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/countVisitors.py" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/sign.md" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/sign.py" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/primarySchool.md" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/primarySchool.py" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.md" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.py" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.md" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.py" />
-        <option value="$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.md" />
         <option value="$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.py" />
         <option value="$PROJECT_DIR$/arcade/python/showing-class/createDie.md" />
         <option value="$PROJECT_DIR$/arcade/python/showing-class/createDie.py" />
         <option value="$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.md" />
         <option value="$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.py" />
+        <option value="$PROJECT_DIR$/interview/tripletSum.md" />
+        <option value="$PROJECT_DIR$/interview/tripletSum.py" />
+        <option value="$PROJECT_DIR$/interview/textJustification.md" />
+        <option value="$PROJECT_DIR$/interview/textJustification.py" />
+        <option value="$PROJECT_DIR$/interview/sumOfTwo.py" />
+        <option value="$PROJECT_DIR$/interview/sumOfTwo.md" />
+        <option value="$PROJECT_DIR$/interview/sudoku2.md" />
+        <option value="$PROJECT_DIR$/interview/sudoku2.py" />
+        <option value="$PROJECT_DIR$/interview/strstr.md" />
+        <option value="$PROJECT_DIR$/interview/strstr.py" />
+        <option value="$PROJECT_DIR$/interview/stringReformatting.md" />
+        <option value="$PROJECT_DIR$/interview/stringReformatting.py" />
+        <option value="$PROJECT_DIR$/interview/stringPermutations.md" />
+        <option value="$PROJECT_DIR$/interview/stringPermutations.py" />
+        <option value="$PROJECT_DIR$/interview/streamValidation.md" />
+        <option value="$PROJECT_DIR$/interview/streamValidation.py" />
+        <option value="$PROJECT_DIR$/interview/squaresUnderQueenAttack.md" />
+        <option value="$PROJECT_DIR$/interview/squaresUnderQueenAttack.py" />
+        <option value="$PROJECT_DIR$/interview/matrixElementsInSpiralOrder.md" />
+        <option value="$PROJECT_DIR$/interview/matrixElementsInSpiralOrder.py" />
+        <option value="$PROJECT_DIR$/interview/sortedSquaredArray.md" />
+        <option value="$PROJECT_DIR$/interview/sortedSquaredArray.py" />
+        <option value="$PROJECT_DIR$/interview/sortByString.md" />
+        <option value="$PROJECT_DIR$/interview/sortByString.py" />
+        <option value="$PROJECT_DIR$/interview/singleNumber.md" />
+        <option value="$PROJECT_DIR$/interview/singleNumber.py" />
+        <option value="$PROJECT_DIR$/interview/simplifyPath.md" />
+        <option value="$PROJECT_DIR$/interview/simplifyPath.py" />
+        <option value="$PROJECT_DIR$/interview/rotateImage.md" />
+        <option value="$PROJECT_DIR$/interview/rotateImage.py" />
+        <option value="$PROJECT_DIR$/interview/integerValueOfRomanNumeral.md" />
+        <option value="$PROJECT_DIR$/interview/integerValueOfRomanNumeral.py" />
+        <option value="$PROJECT_DIR$/interview/reverseVowelsOfString.md" />
+        <option value="$PROJECT_DIR$/interview/reverseVowelsOfString.py" />
+        <option value="$PROJECT_DIR$/interview/reverseSentence.md" />
+        <option value="$PROJECT_DIR$/interview/reverseSentence.py" />
+        <option value="$PROJECT_DIR$/interview/reverseInteger.md" />
+        <option value="$PROJECT_DIR$/interview/reverseInteger.py" />
+        <option value="$PROJECT_DIR$/interview/repeatedDNASequences.md" />
+        <option value="$PROJECT_DIR$/interview/repeatedDNASequences.py" />
+        <option value="$PROJECT_DIR$/interview/regularExpressionMatching.py" />
+        <option value="$PROJECT_DIR$/interview/regularExpressionMatching.md" />
+        <option value="$PROJECT_DIR$/interview/productExceptSelf.md" />
+        <option value="$PROJECT_DIR$/interview/productExceptSelf.py" />
+        <option value="$PROJECT_DIR$/interview/pressingButtons.md" />
+        <option value="$PROJECT_DIR$/interview/pressingButtons.py" />
       </list>
     </option>
   </component>
@@ -310,7 +328,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -334,52 +351,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="arcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codefights-solutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codefights-solutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codefights-solutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codefights-solutions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arcade" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="showing-class" />
+              <option name="myItemId" value="interview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -743,7 +721,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494467133925</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added tasks">
+      <created>1494547197162</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1494547197162</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -757,9 +742,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -803,432 +787,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="725">
-            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/mathPractice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="667">
-            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/checkParticipants.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="783">
-            <caret line="27" column="6" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/fibonacciList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="812">
-            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/drilling-the-lists/primesSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1160">
-            <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcBonuses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcFinalScore.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calcFinalScore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/fibonacciGenerator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/fibonacciGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calkinWilfSequence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="754">
-            <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/calkinWilfSequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/checkPassword.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="841">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/checkPassword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/greetingsGenerator.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="754">
-            <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/greetingsGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/rangeFloat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/rangeFloat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1305">
-            <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/superPrize.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="986">
-            <caret line="34" column="6" lean-forward="false" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/yin-and-yang-of-yields/superPrize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/the-core/waterfall-of-integration/contoursShifting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="40" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/tryFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/twoLines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/simpleComposition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/functionsComposition.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/tryFunctions.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/twoLines.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/simpleComposition.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/functionsComposition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/mergingVines.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/higher-order-thinking/mergingVines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/countVisitors.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/countVisitors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/sign.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/sign.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/primarySchool.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/primarySchool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/codefighterAttribute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="795">
-            <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/sortCodefighters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="667">
-            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/isCoolTeam.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1247,12 +809,50 @@
     <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/createDie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="957">
+            <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/tripletSum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/tripletSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/textJustification.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="795">
@@ -1263,10 +863,409 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arcade/python/showing-class/toHumanAge.py">
+    <entry file="file://$PROJECT_DIR$/interview/sumOfTwo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1363">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="551">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sumOfTwo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sudoku2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sudoku2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/strstr.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/strstr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/stringReformatting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/stringReformatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/stringPermutations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="725">
+            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/stringPermutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/streamValidation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/streamValidation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/squaresUnderQueenAttack.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/squaresUnderQueenAttack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/matrixElementsInSpiralOrder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/matrixElementsInSpiralOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sortedSquaredArray.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="667">
+            <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sortedSquaredArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sortByString.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="665">
+            <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/sortByString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/singleNumber.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="551">
+            <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/textJustification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/singleNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/simplifyPath.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/simplifyPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/rotateImage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/rotateImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/integerValueOfRomanNumeral.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/integerValueOfRomanNumeral.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/reverseVowelsOfString.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="725">
+            <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/reverseVowelsOfString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/reverseSentence.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="551">
+            <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/reverseSentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/reverseInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/repeatedDNASequences.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="580">
+            <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/repeatedDNASequences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/regularExpressionMatching.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="36" column="6" lean-forward="false" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/regularExpressionMatching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/productExceptSelf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="52" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/reverseInteger.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="638">
+            <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/productExceptSelf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/pressingButtons.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="609">
+            <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview/pressingButtons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
